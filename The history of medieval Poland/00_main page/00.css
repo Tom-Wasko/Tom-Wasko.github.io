@@ -1,0 +1,53 @@
+
+
+body {
+	text-align: center;
+}
+
+
+h1 {
+	color: white;
+	font-size: 4rem;
+	padding-bottom: 5%;
+	margin: 0 auto;
+
+}
+
+
+h2 {
+	color: black;
+}
+
+
+p {
+	color: white;
+	font-size: 2rem;
+	margin: 0 auto;
+}
+
+
+.container-fluid {
+	height: 100%;
+	position: absolute;
+	background-color: #646464;
+}
+
+
+#background {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	opacity: 0.5;
+}
+
+
+#title {
+	padding-top: 30%;
+	padding-bottom: 40%;
+}
+
+
+#gradiant {
+	height: 50%;
+	background-image: linear-gradient(#646464, white);
+}

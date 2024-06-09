@@ -1,0 +1,48 @@
+
+body {
+	font-family: Ney York Times;
+}
+
+
+.container{
+	max-width: 75%;
+	width: 100%;
+	margin-top: 5%;
+}
+
+
+.row {
+	padding-bottom: 5%;
+	margin-left: 5%
+}
+
+
+.col {
+	
+}
+
+
+h1 {
+	padding-top: 5%;
+}
+
+
+p {
+	font-size: 1.4rem;
+}
+
+
+img{
+	margin-top: 5%;
+}
+
+
+li{
+	text-align: center;
+	width: 200px;
+	margin: auto auto;
+}
+
+#title {
+	font-size: 1rem !important;
+}
